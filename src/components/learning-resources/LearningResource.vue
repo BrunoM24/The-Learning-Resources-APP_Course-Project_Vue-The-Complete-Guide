@@ -25,5 +25,19 @@ export default {
 </script>
 
 <style scoped>
+li {
+  margin: auto;
+  max-width: 40rem;
+}
 
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+a {
+  text-decoration: none;
+  color: blueviolet;
+}
 </style>
